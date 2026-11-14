@@ -1,4 +1,4 @@
-# Project Name
+# Multiplayer UNO Game
 
 This is a multiplayer uno game that friends can meet up to play together.
 
